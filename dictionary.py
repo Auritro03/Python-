@@ -1,0 +1,10 @@
+a= {'key1' : 12, 'key2' : 'Ohio'}
+b= dict(key2= 13)
+c= dict([('key3', 14)])
+d= dict(zip(['key1', 'key2'],['Oritro', 'Mirpur']))
+e= dict({'key1': 15, 'key2': 'Dhaka'}, key= 29)
+print(a)
+print (b)
+print (c)
+print (d)
+print (e)
