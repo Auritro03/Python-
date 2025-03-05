@@ -6,4 +6,5 @@ myDict = {'Name': 'Oritro', 'Home': 'Dhaka', 'Region': 'Asia'}
 #     print(f"{a} = {b}")
 myStr = 'Oritro'
 for a in myStr:
-    print(a)
+    # print (a)--> It will auto ditect the new line
+    print(a, end = '')
